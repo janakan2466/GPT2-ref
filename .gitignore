@@ -1,0 +1,8 @@
+# Python environment
+env/*
+
+# Wiki articles
+bn_corpus/*
+
+# Tokenized data
+tokenized_data/*
